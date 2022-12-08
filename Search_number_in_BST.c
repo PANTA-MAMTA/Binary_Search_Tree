@@ -86,10 +86,10 @@ int main()
        /*
        tree looks like this:
               9
-             /  \   
-             6   10
-            /  \   /
-           2    7  8
+            /   \   
+           6     10
+          /  \    /
+         2    7  8
        */
 
     p->left=p1;
